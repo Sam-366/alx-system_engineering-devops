@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 644 *sub_dir
+chmod -R 644 *sub_dir 751
