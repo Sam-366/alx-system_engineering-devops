@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 644 *sub_dir 751
+chmod -R o+x 0x01-shell_permissions
